@@ -109,4 +109,4 @@ Real customs data is messy. The main issues found and how they were handled:
 ## Author
 
 **Luis** — International trade & commercial analysis
-[LinkedIn](https://www.linkedin.com/in/your-profile) <!-- replace with your profile URL -->
+[LinkedIn](https://www.linkedin.com/in/luis-serra/) <!-- replace with your profile URL -->
